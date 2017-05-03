@@ -115,6 +115,40 @@ h6 {
     background-color: #f8f8f8;
 }
 
+.content-section-a-y {
+    padding: 50px 0;
+    background-color: rgb(215,181,109);
+}
+
+.content-section-b-y {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    background-color: rgb(215,181,109);    
+}
+
+.content-section-a-b {
+    padding: 50px 0;
+    background-color: rgb(86,105,143);
+    color: #f8f8f8;
+}
+
+.content-section-b-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    background-color: rgb(86,105,143);
+    color: #f8f8f8; 
+}
+
+.content-section-b-b a {
+	color: #f8f8f8 !important;
+}
+
+.content-section-b-b a:hover {
+	color: rgb(86,105,143) !important;
+}
+
 .content-section-b {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
