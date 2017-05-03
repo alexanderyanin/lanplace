@@ -49,18 +49,16 @@ h6 {
 }
 
 .intro-footer {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    text-align: center;
-    color: #f8f8f8;
+    height: 100px;
     background: url(../img/footer-bg.jpg) no-repeat;
     background-size: cover;
 }
 
-.intro-md {
-	height: 85px;    
-    background: url(../img/footer-bg-md.jpg) no-repeat;
+.intro-md {	    
+    background: url(../img/footer-bg.jpg) no-repeat;
     background-size: cover;
+    height: 80px;
+    border-bottom: 2px solid rgb(209,163,114);
 }
 
 .intro-message {
@@ -134,15 +132,21 @@ h6 {
 }
 
 .content-section-a-b {
-    padding: 50px 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
     background-color: rgb(86,105,143);
     color: #f8f8f8;
+    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background-size: cover;
 }
 
 .content-section-b-b {
-    padding: 50px 0;     
+    padding-top: 50px;
+    padding-bottom: 50px;         
     background-color: rgb(86,105,143);
-    color: #f8f8f8; 
+    color: #f8f8f8;
+    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background-size: cover;
 }
 
 .content-section-b-b a {
