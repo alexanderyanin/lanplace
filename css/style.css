@@ -57,6 +57,12 @@ h6 {
     background-size: cover;
 }
 
+.intro-md {
+	height: 85px;    
+    background: url(../img/footer-bg-md.jpg) no-repeat;
+    background-size: cover;
+}
+
 .intro-message {
     position: relative;
     padding-top: 3%;
@@ -134,9 +140,7 @@ h6 {
 }
 
 .content-section-b-b {
-    padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
+    padding: 50px 0;     
     background-color: rgb(86,105,143);
     color: #f8f8f8; 
 }
