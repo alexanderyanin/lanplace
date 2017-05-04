@@ -141,6 +141,11 @@ h6 {
 	color: #f8f8f8 !important;
 }
 
+.dropdown-menu a {
+	color: #000 !important;
+	font-weight: 700 !important;
+}
+
 .content-section-b-b a:hover {
 	color: rgb(86,105,143) !important;
 }
