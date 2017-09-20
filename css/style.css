@@ -43,14 +43,6 @@ h6 {
     background-size: cover; 
 }
 
-.no-padding {    
-    padding-left: 0;
-    padding-right: 0;
-}
-.img-responsive {
-    width: 100%;
-}
-
 .pages {       
     color: #f8f8f8;
     background: rgb(86,105,143);
@@ -214,6 +206,27 @@ h6 {
 
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
+    }
+
+    .intro-md {
+        height: 30px;
+    }
+
+    .intro-footer {
+        height: 50px;
+    }
+
+    .content-section-a-b, .content-section-b-b {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .lead {
+        font-size: 16px;
+    }
+
+    .section-heading {
+        margin-bottom: 20px;
     }
 }
 
